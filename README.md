@@ -1,0 +1,1 @@
+LagosJavaDevelopers is an Android App with Github API generated users list that situates in Lagos, Nigeria and engaged as a Java Developer with repositories on Github. The application used the Volley Library for Data lifting and Network Images. Inclusively with the list of users there is a User Details page with the share of each user Github Page.
